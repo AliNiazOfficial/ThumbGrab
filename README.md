@@ -19,7 +19,7 @@
 
 ## 📸 Application Screenshot
 
-![ThumbGrab Interface]([https://via.placeholder.com/1200x700?text=ThumbGrab+Interface](https://raw.githubusercontent.com/AliNiazOfficial/ThumbGrab/refs/heads/main/ThumbGrab%20file/ThumbGrab.png))
+![ThumbGrab Interface](https://raw.githubusercontent.com/AliNiazOfficial/ThumbGrab/refs/heads/main/ThumbGrab%20file/ThumbGrab.png)
 
 > **Figure 1:** ThumbGrab's professional interface with dark theme, showing the input section and feature highlights.
 
